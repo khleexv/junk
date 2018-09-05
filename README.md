@@ -12,7 +12,7 @@
 
 **마크다운**, __마크다운__
 
-[http://github.com](깃허브), [http://github.com](http://github.com "깃허브")
+[http://github.com](깃허브), [http://github.com](http://github.com "깃허브") http://github.com
 
 1. 깃
 2. 허
@@ -26,4 +26,6 @@
 - 허
 - 브
 
->깃허브
+마크다운이란?
+>마크다운이다
+>마크다운이아니다

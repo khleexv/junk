@@ -1,6 +1,6 @@
 {
-    "editor.fontFamily": "Consolas, 맑�??고딕",
-    "files.encoding": "euckr",
+    "editor.fontFamily": "Consolas, 맑�??고딕",
+    "files.encoding": "utf8",
     "code-runner.executorMap":{
         "javascript": "node",
         "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",

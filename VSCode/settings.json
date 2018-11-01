@@ -3,7 +3,7 @@
   "files.encoding": "utf8",
   "code-runner.executorMap":{
       "javascript": "node",
-      "java": "cd $dir && javac '$fileName' -encoding UTF-8 && java '$fileNameWithoutExt' -encoding UTF-8",
+      "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
       "c": "cd $dir && gcc $'fileName' -o $'fileNameWithoutExt' && ./$fileNameWithoutExt",
       "cpp": "cd $dir && g++ '$fileName' -o '$fileNameWithoutExt' && ./'$fileNameWithoutExt'",
       "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
@@ -49,8 +49,6 @@
   "python.linting.pylintArgs": [
     "--extension-pkg-whitelist=PyQt5"
   ],
-  "powermode.enabled": true,
-  "powermode.enableShake": false,
   "extensions.ignoreRecommendations": false,
   "workbench.activityBar.visible": true
 }

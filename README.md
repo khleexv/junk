@@ -36,3 +36,6 @@
 https://github.com/biospin/BigBio/blob/master/reference/마크다운.md
 
 stty erase ^H
+
+apt-get install -y fonts-nanum
+fc-cacahe -f -v

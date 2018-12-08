@@ -35,6 +35,8 @@
 
 https://github.com/biospin/BigBio/blob/master/reference/마크다운.md
 
+https://guides.github.com/features/mastering-markdown/
+
 stty erase ^H
 
 apt-get install -y fonts-nanum

@@ -41,3 +41,5 @@ stty erase ^H
 
 apt-get install -y fonts-nanum
 fc-cacahe -f -v
+
+![2048](https://github.com/ganghe74/junk/blob/master/2048.png?raw=true)

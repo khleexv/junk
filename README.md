@@ -47,3 +47,5 @@ fc-cacahe -f -v
 ![2048](https://github.com/ganghe74/junk/blob/master/2048.png?raw=true)
 
 $$ f(x) = y $$
+
+:smile:

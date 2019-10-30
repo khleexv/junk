@@ -1,5 +1,9 @@
-# Happy 2019!
-# 謹賀新年
+<center> 이것은 수레기 통 이다. </center>
+
+<p align="center">
+<image src="trash.png">
+</p>
+
 # 마크다운 연습
 ## 마크다운 연습
 ### 마크다운 연습

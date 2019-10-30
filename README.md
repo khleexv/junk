@@ -1,6 +1,7 @@
 <p align="center">
 이것은 수레기 통 이다.<br>
-<image src="trash.png">
+<image src="trash.png"><br>
+<image src="https://img.shields.io/badge/status-trashcan-lightgrey">
 </p>
 
 # 마크다운 연습

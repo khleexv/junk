@@ -1,6 +1,5 @@
-<center> 이것은 수레기 통 이다. </center>
-
 <p align="center">
+이것은 수레기 통 이다.
 <image src="trash.png">
 </p>
 
